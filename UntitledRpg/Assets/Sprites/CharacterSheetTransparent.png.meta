@@ -1,0 +1,2215 @@
+fileFormatVersion: 2
+guid: a56659a24cb398c43ba5126201ec18ce
+timeCreated: 1478594987
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CharacterSheetTransparent_48
+    21300002: CharacterSheetTransparent_49
+    21300004: CharacterSheetTransparent_50
+    21300006: CharacterSheetTransparent_51
+    21300008: CharacterSheetTransparent_52
+    21300010: CharacterSheetTransparent_53
+    21300012: CharacterSheetTransparent_54
+    21300014: CharacterSheetTransparent_55
+    21300016: CharacterSheetTransparent_56
+    21300018: CharacterSheetTransparent_57
+    21300020: CharacterSheetTransparent_58
+    21300022: CharacterSheetTransparent_59
+    21300024: CharacterSheetTransparent_67
+    21300026: CharacterSheetTransparent_68
+    21300028: CharacterSheetTransparent_69
+    21300030: CharacterSheetTransparent_70
+    21300032: CharacterSheetTransparent_71
+    21300034: CharacterSheetTransparent_72
+    21300036: CharacterSheetTransparent_73
+    21300038: CharacterSheetTransparent_74
+    21300040: CharacterSheetTransparent_75
+    21300042: CharacterSheetTransparent_76
+    21300044: CharacterSheetTransparent_77
+    21300046: CharacterSheetTransparent_78
+    21300048: CharacterSheetTransparent_79
+    21300050: CharacterSheetTransparent_80
+    21300052: CharacterSheetTransparent_81
+    21300054: CharacterSheetTransparent_82
+    21300056: CharacterSheetTransparent_83
+    21300058: CharacterSheetTransparent_84
+    21300060: CharacterSheetTransparent_85
+    21300062: CharacterSheetTransparent_86
+    21300064: CharacterSheetTransparent_87
+    21300066: CharacterSheetTransparent_88
+    21300068: CharacterSheetTransparent_89
+    21300070: CharacterSheetTransparent_90
+    21300072: CharacterSheetTransparent_91
+    21300074: CharacterSheetTransparent_92
+    21300076: CharacterSheetTransparent_93
+    21300078: CharacterSheetTransparent_94
+    21300080: CharacterSheetTransparent_95
+    21300082: CharacterSheetTransparent_96
+    21300084: CharacterSheetTransparent_97
+    21300086: CharacterSheetTransparent_98
+    21300088: CharacterSheetTransparent_99
+    21300090: CharacterSheetTransparent_100
+    21300092: CharacterSheetTransparent_101
+    21300094: CharacterSheetTransparent_102
+    21300096: CharacterSheetTransparent_103
+    21300098: CharacterSheetTransparent_104
+    21300100: CharacterSheetTransparent_105
+    21300102: CharacterSheetTransparent_106
+    21300104: CharacterSheetTransparent_107
+    21300106: CharacterSheetTransparent_108
+    21300108: CharacterSheetTransparent_109
+    21300110: CharacterSheetTransparent_110
+    21300112: CharacterSheetTransparent_111
+    21300114: CharacterSheetTransparent_112
+    21300116: CharacterSheetTransparent_113
+    21300118: CharacterSheetTransparent_114
+    21300120: CharacterSheetTransparent_115
+    21300122: CharacterSheetTransparent_116
+    21300124: CharacterSheetTransparent_117
+    21300126: CharacterSheetTransparent_118
+    21300128: CharacterSheetTransparent_119
+    21300130: CharacterSheetTransparent_120
+    21300132: CharacterSheetTransparent_121
+    21300134: CharacterSheetTransparent_122
+    21300136: CharacterSheetTransparent_123
+    21300138: CharacterSheetTransparent_124
+    21300140: CharacterSheetTransparent_125
+    21300142: CharacterSheetTransparent_126
+    21300144: CharacterSheetTransparent_127
+    21300146: CharacterSheetTransparent_128
+    21300148: CharacterSheetTransparent_129
+    21300150: CharacterSheetTransparent_130
+    21300152: CharacterSheetTransparent_131
+    21300154: CharacterSheetTransparent_132
+    21300156: CharacterSheetTransparent_133
+    21300158: CharacterSheetTransparent_134
+    21300160: CharacterSheetTransparent_135
+    21300162: CharacterSheetTransparent_136
+    21300164: CharacterSheetTransparent_144
+    21300166: CharacterSheetTransparent_145
+    21300168: CharacterSheetTransparent_146
+    21300170: CharacterSheetTransparent_147
+    21300172: CharacterSheetTransparent_148
+    21300174: CharacterSheetTransparent_149
+    21300176: CharacterSheetTransparent_150
+    21300178: CharacterSheetTransparent_151
+    21300180: CharacterSheetTransparent_152
+    21300182: CharacterSheetTransparent_153
+    21300184: CharacterSheetTransparent_154
+    21300186: CharacterSheetTransparent_155
+    21300188: CharacterSheetTransparent_156
+    21300190: CharacterSheetTransparent_157
+    21300192: CharacterSheetTransparent_158
+    21300194: CharacterSheetTransparent_159
+    21300196: CharacterSheetTransparent_160
+    21300198: CharacterSheetTransparent_161
+    21300200: CharacterSheetTransparent_162
+    21300202: CharacterSheetTransparent_163
+    21300204: CharacterSheetTransparent_164
+    21300206: CharacterSheetTransparent_165
+    21300208: CharacterSheetTransparent_166
+    21300210: CharacterSheetTransparent_167
+    21300212: CharacterSheetTransparent_168
+    21300214: CharacterSheetTransparent_169
+    21300216: CharacterSheetTransparent_170
+    21300218: CharacterSheetTransparent_171
+    21300220: CharacterSheetTransparent_172
+    21300222: CharacterSheetTransparent_173
+    21300224: CharacterSheetTransparent_174
+    21300226: CharacterSheetTransparent_175
+    21300228: CharacterSheetTransparent_176
+    21300230: CharacterSheetTransparent_177
+    21300232: CharacterSheetTransparent_178
+    21300234: CharacterSheetTransparent_179
+    21300236: CharacterSheetTransparent_180
+    21300238: CharacterSheetTransparent_181
+    21300240: CharacterSheetTransparent_182
+    21300242: CharacterSheetTransparent_183
+    21300244: CharacterSheetTransparent_184
+    21300246: CharacterSheetTransparent_185
+    21300248: CharacterSheetTransparent_186
+    21300250: CharacterSheetTransparent_187
+    21300252: CharacterSheetTransparent_188
+    21300254: CharacterSheetTransparent_189
+    21300256: CharacterSheetTransparent_190
+    21300258: CharacterSheetTransparent_191
+    21300260: CharacterSheetTransparent_192
+    21300262: CharacterSheetTransparent_193
+    21300264: CharacterSheetTransparent_194
+    21300266: CharacterSheetTransparent_195
+    21300268: CharacterSheetTransparent_196
+    21300270: CharacterSheetTransparent_197
+    21300272: CharacterSheetTransparent_198
+    21300274: CharacterSheetTransparent_199
+    21300276: CharacterSheetTransparent_200
+    21300278: CharacterSheetTransparent_201
+    21300280: CharacterSheetTransparent_202
+    21300282: CharacterSheetTransparent_203
+    21300284: CharacterSheetTransparent_204
+    21300286: CharacterSheetTransparent_205
+    21300288: CharacterSheetTransparent_206
+    21300290: CharacterSheetTransparent_207
+    21300292: CharacterSheetTransparent_208
+    21300294: CharacterSheetTransparent_209
+    21300296: CharacterSheetTransparent_210
+    21300298: CharacterSheetTransparent_211
+    21300300: CharacterSheetTransparent_212
+    21300302: CharacterSheetTransparent_213
+    21300304: CharacterSheetTransparent_214
+    21300306: CharacterSheetTransparent_215
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 310
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 311
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 310
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 292
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 293
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_53
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 292
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 274
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_55
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 275
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_56
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 274
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_58
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 257
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_59
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 256
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_67
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_69
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 202
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_70
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 202
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_72
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 202
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_73
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_74
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 202
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_76
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_77
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_79
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 202
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_80
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 203
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 202
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_82
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 202
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_83
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 203
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_84
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 202
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 184
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 185
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 184
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_88
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 166
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_89
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 185
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_90
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 166
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_91
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 184
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 185
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_93
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_94
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 184
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_95
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 185
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_96
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 184
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_97
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 184
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_98
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 185
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_99
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 184
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_100
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 184
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_101
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 185
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_102
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 184
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_103
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_105
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 166
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_106
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_107
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_109
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 166
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_110
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_111
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_112
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_113
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 166
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 167
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_115
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 166
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_116
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 166
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_117
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 167
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_118
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 166
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 148
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 149
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_121
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 148
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_122
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 148
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_123
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 149
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_124
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 148
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_125
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 148
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_126
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 149
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_127
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 148
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_128
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 148
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 149
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_130
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 148
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_131
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 148
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_132
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 149
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_133
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 148
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_134
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 148
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_135
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 149
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_136
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 148
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_145
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_146
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_147
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_148
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_149
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_151
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_152
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_153
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_154
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_155
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_156
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 76
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_157
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_158
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_160
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 77
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_161
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 76
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_162
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 58
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_163
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 59
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_164
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_165
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_166
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 59
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_167
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 58
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_168
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_169
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 59
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_170
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 58
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_171
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 58
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_172
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 59
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_173
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 58
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_174
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 58
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_175
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 59
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_176
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 58
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_177
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 58
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_178
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 59
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_179
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 58
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_180
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_181
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_182
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_183
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_184
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_185
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_186
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_188
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_189
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_190
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_191
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_192
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 40
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_193
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 41
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_194
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_195
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 40
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_196
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 41
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_197
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 40
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_198
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 22
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_199
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_200
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 22
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_201
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_202
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 23
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_203
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 22
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_204
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_205
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 23
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_206
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_207
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 22
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_208
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_209
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_210
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 22
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_211
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 23
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_212
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 22
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_213
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 22
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_214
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 23
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CharacterSheetTransparent_215
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 22
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
