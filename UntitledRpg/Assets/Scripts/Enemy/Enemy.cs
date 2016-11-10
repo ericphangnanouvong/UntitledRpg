@@ -6,15 +6,19 @@ public class Enemy : MonoBehaviour {
     public int monsterSpeed;
     public TextMesh monsterName;
     public TextMesh monsterHp;
+    public int currentHp;
+    public int maxHealth;
 
     private Vector3 spawnPosition;
     private Vector3 newPosition;
     private bool moving = false;
-    private int currentHp=20;
+    
     
     // Use this for initialization
     void Start () {
         BaseEnemy monster = EnemyDatabase.Enemies[monsterID];
+        currentHp = monster.m_health;
+        maxHealth = monster.m_health;
         spawnPosition = this.transform.position;
         monsterName.text = monster.m_name;
         monsterHp.text = "Hp: " + currentHp + "/" + monster.m_health;
@@ -31,6 +35,11 @@ public class Enemy : MonoBehaviour {
         if (moving == true)
         {
             Invoke("MoveAgain", 5);
+        }
+
+        if(currentHp <= 0)
+        {
+            Destroy(this.gameObject);
         }
     }
 
