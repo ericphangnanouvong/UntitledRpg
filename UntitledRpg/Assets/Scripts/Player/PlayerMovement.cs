@@ -16,7 +16,6 @@ public class PlayerMovement : MonoBehaviour {
 		{
 			m_newPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
 			m_newPosition.z = transform.position.z;
-			Debug.Log (m_newPosition);
 			transform.position = Vector2.MoveTowards (this.transform.position, m_newPosition, Time.deltaTime*m_movementSpeed);
 		}
 }

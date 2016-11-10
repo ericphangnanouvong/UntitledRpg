@@ -1,0 +1,563 @@
+fileFormatVersion: 2
+guid: 382a3564afc5edf41af814e073938058
+timeCreated: 1478743988
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MonstersTransparent_44
+    21300002: MonstersTransparent_45
+    21300004: MonstersTransparent_46
+    21300006: MonstersTransparent_47
+    21300008: MonstersTransparent_48
+    21300010: MonstersTransparent_49
+    21300012: MonstersTransparent_50
+    21300014: MonstersTransparent_51
+    21300016: MonstersTransparent_52
+    21300018: MonstersTransparent_53
+    21300020: MonstersTransparent_54
+    21300022: MonstersTransparent_55
+    21300024: MonstersTransparent_56
+    21300026: MonstersTransparent_57
+    21300028: MonstersTransparent_58
+    21300030: MonstersTransparent_59
+    21300032: MonstersTransparent_60
+    21300034: MonstersTransparent_61
+    21300036: MonstersTransparent_62
+    21300038: MonstersTransparent_63
+    21300040: MonstersTransparent_64
+    21300042: MonstersTransparent_65
+    21300044: MonstersTransparent_66
+    21300046: MonstersTransparent_67
+    21300048: MonstersTransparent_68
+    21300050: MonstersTransparent_69
+    21300052: MonstersTransparent_70
+    21300054: MonstersTransparent_71
+    21300056: MonstersTransparent_72
+    21300058: MonstersTransparent_73
+    21300060: MonstersTransparent_74
+    21300062: MonstersTransparent_75
+    21300064: MonstersTransparent_76
+    21300066: MonstersTransparent_77
+    21300068: MonstersTransparent_78
+    21300070: MonstersTransparent_79
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonstersTransparent_44
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 156
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 157
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_46
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 156
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_49
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 156
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_50
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 156
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 157
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_52
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 156
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_53
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 138
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_54
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 139
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 138
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 138
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 139
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_58
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 138
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 138
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 139
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 138
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 120
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_63
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 121
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_64
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 120
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_65
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 121
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_67
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 120
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_68
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 120
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 121
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_70
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 120
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_72
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 103
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_73
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_74
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 102
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_75
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_76
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 102
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 103
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MonstersTransparent_79
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

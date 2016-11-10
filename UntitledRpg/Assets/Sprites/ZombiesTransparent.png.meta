@@ -1,0 +1,1585 @@
+fileFormatVersion: 2
+guid: deb99e18969a6a742b89e4ffffa4e34a
+timeCreated: 1478743842
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZombiesTransparent_1
+    21300002: ZombiesTransparent_2
+    21300004: ZombiesTransparent_3
+    21300006: ZombiesTransparent_5
+    21300008: ZombiesTransparent_6
+    21300010: ZombiesTransparent_7
+    21300012: ZombiesTransparent_8
+    21300014: ZombiesTransparent_9
+    21300016: ZombiesTransparent_10
+    21300018: ZombiesTransparent_14
+    21300020: ZombiesTransparent_15
+    21300022: ZombiesTransparent_16
+    21300024: ZombiesTransparent_17
+    21300026: ZombiesTransparent_18
+    21300028: ZombiesTransparent_19
+    21300030: ZombiesTransparent_20
+    21300032: ZombiesTransparent_21
+    21300034: ZombiesTransparent_22
+    21300036: ZombiesTransparent_23
+    21300038: ZombiesTransparent_24
+    21300040: ZombiesTransparent_25
+    21300042: ZombiesTransparent_26
+    21300044: ZombiesTransparent_27
+    21300046: ZombiesTransparent_28
+    21300048: ZombiesTransparent_29
+    21300050: ZombiesTransparent_30
+    21300052: ZombiesTransparent_31
+    21300054: ZombiesTransparent_32
+    21300056: ZombiesTransparent_33
+    21300058: ZombiesTransparent_34
+    21300060: ZombiesTransparent_35
+    21300062: ZombiesTransparent_36
+    21300064: ZombiesTransparent_37
+    21300066: ZombiesTransparent_38
+    21300068: ZombiesTransparent_39
+    21300070: ZombiesTransparent_40
+    21300072: ZombiesTransparent_41
+    21300074: ZombiesTransparent_42
+    21300076: ZombiesTransparent_43
+    21300078: ZombiesTransparent_44
+    21300080: ZombiesTransparent_45
+    21300082: ZombiesTransparent_46
+    21300084: ZombiesTransparent_47
+    21300086: ZombiesTransparent_48
+    21300088: ZombiesTransparent_49
+    21300090: ZombiesTransparent_50
+    21300092: ZombiesTransparent_51
+    21300094: ZombiesTransparent_52
+    21300096: ZombiesTransparent_53
+    21300098: ZombiesTransparent_54
+    21300100: ZombiesTransparent_55
+    21300102: ZombiesTransparent_56
+    21300104: ZombiesTransparent_57
+    21300106: ZombiesTransparent_58
+    21300108: ZombiesTransparent_59
+    21300110: ZombiesTransparent_60
+    21300112: ZombiesTransparent_61
+    21300114: ZombiesTransparent_62
+    21300116: ZombiesTransparent_63
+    21300118: ZombiesTransparent_64
+    21300120: ZombiesTransparent_72
+    21300122: ZombiesTransparent_73
+    21300124: ZombiesTransparent_74
+    21300126: ZombiesTransparent_75
+    21300128: ZombiesTransparent_76
+    21300130: ZombiesTransparent_77
+    21300132: ZombiesTransparent_78
+    21300134: ZombiesTransparent_79
+    21300136: ZombiesTransparent_80
+    21300138: ZombiesTransparent_81
+    21300140: ZombiesTransparent_82
+    21300142: ZombiesTransparent_83
+    21300144: ZombiesTransparent_84
+    21300146: ZombiesTransparent_85
+    21300148: ZombiesTransparent_86
+    21300150: ZombiesTransparent_87
+    21300152: ZombiesTransparent_88
+    21300154: ZombiesTransparent_89
+    21300156: ZombiesTransparent_90
+    21300158: ZombiesTransparent_91
+    21300160: ZombiesTransparent_92
+    21300162: ZombiesTransparent_93
+    21300164: ZombiesTransparent_94
+    21300166: ZombiesTransparent_95
+    21300168: ZombiesTransparent_127
+    21300170: ZombiesTransparent_128
+    21300172: ZombiesTransparent_129
+    21300174: ZombiesTransparent_130
+    21300176: ZombiesTransparent_131
+    21300178: ZombiesTransparent_132
+    21300180: ZombiesTransparent_133
+    21300182: ZombiesTransparent_134
+    21300184: ZombiesTransparent_135
+    21300186: ZombiesTransparent_136
+    21300188: ZombiesTransparent_137
+    21300190: ZombiesTransparent_138
+    21300192: ZombiesTransparent_139
+    21300194: ZombiesTransparent_140
+    21300196: ZombiesTransparent_141
+    21300198: ZombiesTransparent_142
+    21300200: ZombiesTransparent_143
+    21300202: ZombiesTransparent_144
+    21300204: ZombiesTransparent_145
+    21300206: ZombiesTransparent_146
+    21300208: ZombiesTransparent_147
+    21300210: ZombiesTransparent_148
+    21300212: ZombiesTransparent_149
+    21300214: ZombiesTransparent_150
+    21300216: ZombiesTransparent_164
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZombiesTransparent_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 770
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 771
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 770
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 770
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 771
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 770
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 750
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_9
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 751
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 750
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 750
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 751
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 750
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 730
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 731
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 730
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 744
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 745
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 744
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_23
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 744
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_25
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 744
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_26
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 744
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_27
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 745
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_28
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 744
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 730
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 731
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 730
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 710
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 711
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 710
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 726
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 727
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 726
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_38
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 726
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_39
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 727
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 726
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 726
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_42
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 727
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 726
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_44
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 710
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_45
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 711
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_46
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 710
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 708
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 709
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_49
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 708
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_50
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 708
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 709
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_52
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 708
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 708
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 709
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 708
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 690
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_57
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 691
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 690
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 690
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_60
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 691
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 690
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_62
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 690
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_63
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 691
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_64
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 690
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_72
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 636
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 637
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_74
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 636
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_75
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 636
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 637
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_77
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 636
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 618
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_79
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 619
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_80
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 618
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_81
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 618
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_82
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 619
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_83
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 618
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_84
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 600
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 601
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_86
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 600
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_87
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 600
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_88
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 601
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_89
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 600
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_90
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 582
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_91
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 583
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 582
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_93
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 582
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_94
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 583
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_95
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 582
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_127
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 294
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_128
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 296
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_129
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 294
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_130
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 294
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_131
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 295
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_132
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 294
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_133
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 276
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 277
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_135
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 276
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_136
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 276
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_137
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 277
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_138
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 276
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_139
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 258
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_140
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 259
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_141
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 258
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_142
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 258
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_143
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 259
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_144
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 258
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_145
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_146
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 241
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_147
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 240
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_148
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 240
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_149
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 241
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_150
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 240
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZombiesTransparent_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 390
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
